@@ -1,8 +1,11 @@
 # django-2.2-blog
 Python Django Blog
- - Search
- - Create
- - Read
- - Update
- - Delete
- - Authentication
+<strong>Functions:</strong>
+<ul>
+ <li>Search</li>
+  <li>Create</li>
+<li>Read</li>
+ <li>Update</li>
+<li>Delete</li>
+ <li>Authentication</li>
+</ul>
