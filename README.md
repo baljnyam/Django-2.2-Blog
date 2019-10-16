@@ -9,3 +9,5 @@ Python Django Blog
 <li>Delete</li>
  <li>Authentication</li>
 </ul>
+
+<img src="django blog.JPG" alt="blog">
